@@ -1,0 +1,2 @@
+name = "Alice"
+print(name[0:3])  # Output: A
